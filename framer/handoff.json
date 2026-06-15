@@ -1,0 +1,28 @@
+{
+  "archetype": "premium-brutalist",
+  "canvasUrl": "https://framer.com/projects/frm_b5e69d81/taco-caporal-polished",
+  "wsChannel": "wss://framer.com/canvas/frm_b5e69d81",
+  "palette": {
+    "primary": "#E63946",
+    "accent": "#2A9D8F",
+    "bg": "#F8F8F8",
+    "surface": "#F4A261",
+    "fg": "#333333"
+  },
+  "motion": {
+    "preset": "snap.cut",
+    "easing": "cubic-bezier(.2,.8,.2,1)",
+    "duration": 220,
+    "springs": [
+      "stiff",
+      "tight"
+    ]
+  },
+  "effects": [
+    "1px hairline grid",
+    "monospace meta labels",
+    "scroll-jacked sections",
+    "no shadows"
+  ],
+  "sourceDeploymentUrl": "https://taco-caporal-2026-02c87245.vercel.app"
+}
