@@ -1,0 +1,75 @@
+{
+  "deploymentId": "dpl_02c87245",
+  "projectName": "taco-caporal-2026",
+  "framework": "Pure HTML/CSS",
+  "language": "HTML",
+  "stagingUrl": "https://taco-caporal-2026-02c87245.vercel.app",
+  "inspectorUrl": "https://vercel.com/awde/taco-caporal-2026/deployments/02c87245",
+  "deployedAt": "2026-06-15T02:52:06.072Z",
+  "modules": [
+    {
+      "id": "mod_0be4bd50",
+      "slug": "products",
+      "displayName": "Products",
+      "itemCount": 0,
+      "fields": [
+        {
+          "slug": "name",
+          "name": "Name",
+          "type": "PlainText"
+        },
+        {
+          "slug": "description",
+          "name": "Description",
+          "type": "RichText"
+        },
+        {
+          "slug": "features",
+          "name": "Features",
+          "type": "RichText"
+        }
+      ]
+    },
+    {
+      "id": "mod_7d2a6b1a",
+      "slug": "sections",
+      "displayName": "Page Sections",
+      "itemCount": 0,
+      "fields": [
+        {
+          "slug": "kind",
+          "name": "Kind",
+          "type": "Option"
+        },
+        {
+          "slug": "title",
+          "name": "Title",
+          "type": "PlainText"
+        },
+        {
+          "slug": "summary",
+          "name": "Summary",
+          "type": "RichText"
+        }
+      ]
+    },
+    {
+      "id": "mod_2e71ee8f",
+      "slug": "nav-links",
+      "displayName": "Nav Links",
+      "itemCount": 5,
+      "fields": [
+        {
+          "slug": "label",
+          "name": "Label",
+          "type": "PlainText"
+        },
+        {
+          "slug": "order",
+          "name": "Order",
+          "type": "Number"
+        }
+      ]
+    }
+  ]
+}
