@@ -1,0 +1,59 @@
+{
+  "generatedAt": "2026-06-15T02:51:37.549Z",
+  "overallConfidence": 0.8,
+  "integrityScore": 0,
+  "discrepancies": [
+    {
+      "field": "navLinks",
+      "confidence": 0,
+      "matched": false,
+      "primary": [
+        "Menu",
+        "Specials",
+        "About Us",
+        "Contact",
+        "Order Online"
+      ],
+      "secondary": [
+        "Loading..."
+      ],
+      "note": "navLinks: weak agreement (0.00) — flagged"
+    }
+  ],
+  "matches": [
+    {
+      "field": "title",
+      "confidence": 1,
+      "matched": true,
+      "primary": "",
+      "secondary": null,
+      "note": "title: exact agreement"
+    },
+    {
+      "field": "description",
+      "confidence": 1,
+      "matched": true,
+      "primary": "",
+      "secondary": null,
+      "note": "description: exact agreement"
+    },
+    {
+      "field": "productDescriptions",
+      "confidence": 1,
+      "matched": true,
+      "primary": [],
+      "secondary": [],
+      "note": "productDescriptions: exact agreement"
+    },
+    {
+      "field": "prices",
+      "confidence": 1,
+      "matched": true,
+      "primary": [],
+      "secondary": [],
+      "note": "prices: exact agreement"
+    }
+  ],
+  "primarySource": "firecrawl.v2",
+  "secondarySource": "lightscraper.fetch"
+}
