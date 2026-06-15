@@ -1,0 +1,25 @@
+{
+  "overall": 1,
+  "modules": [
+    {
+      "module": "Products",
+      "score": 1,
+      "notes": [
+        "no products detected"
+      ]
+    },
+    {
+      "module": "Features",
+      "score": 1,
+      "notes": [
+        "no sections detected"
+      ]
+    },
+    {
+      "module": "Nav",
+      "score": 1,
+      "notes": []
+    }
+  ],
+  "passedThreshold": true
+}
